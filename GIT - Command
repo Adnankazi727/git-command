@@ -1,1 +1,11 @@
 
+git add .
+git commit -m "first commit"
+git branch 
+git branch name "dev"
+git log 
+git log --oneline
+git branch -m   ( To change the name )
+git branch -d   ( To delete the branch )
+git diff  name-1 name-2 ( to see the difference between the two branches )
+git merge name 
